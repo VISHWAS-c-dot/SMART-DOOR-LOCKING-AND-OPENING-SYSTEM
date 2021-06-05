@@ -32,8 +32,8 @@ For manual operation door DO is connected to the external power supply with the 
 IR SENSOR 
 ----------
 R technology is used in daily life and also in industries for different purposes. For example, TVs use an IR sensor to understand the signals which are transmitted from a remote control. The main benefits of IR sensors are low power usage, their simple design & their convenient features. IR signals are not noticeable by the human eye. The IR radiation in the electromagnetic spectrum can be found in the regions of the visible & microwave. Usually, the wavelengths of these waves range from 0.7 µm 5 to 1000µm. The IR spectrum can be divided into three regions like near-infrared, mid, and far-infrared. The near IR region’s wavelength ranges from 0.75 – 3µm, the mid-infrared region’s wavelength ranges from 3 to 6µm & the far IR region’s infrared radiation’s wavelength is higher than 6µm.
-![image](https://user-images.githubusercontent.com/66949546/120879986-e6c7c800-c5e4-11eb-8c52-2af66f272ed2.png)
 
+![image](https://user-images.githubusercontent.com/66949546/120879986-e6c7c800-c5e4-11eb-8c52-2af66f272ed2.png)
 
 (0 FOR NO FIRE FOUND), (1 FOR FIRE FOUND)
 creat the interrupt when the IR sensor goes high and open the door permanently.
