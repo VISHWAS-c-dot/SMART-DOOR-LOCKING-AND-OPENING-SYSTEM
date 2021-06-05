@@ -37,3 +37,5 @@ to do this send the high signal to the port P0.2 '1'  continuisly.
 The automatic door opening systems are used in commercial buildings, shopping malls, theaters, etc. These systems are used to open and close the door when a person comes near to the entry of the door and close it after the person entered into the door and it also activate automatically at the time of fire emergencies.
 
 if you have any doubt fell free to mail me @ <pre><code>vishwas@varzsecurity.com</code></pre>
+
+created with love by VARZ security members.
