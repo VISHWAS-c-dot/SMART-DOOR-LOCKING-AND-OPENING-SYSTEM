@@ -1,9 +1,9 @@
-detailed report
----------------------------------
+#REPORT
+==========
 Here we need to use 2types of sensor and magnetic locking circuit.
 
- MAGNET CONTACT
- ---------------------
+MAGNET CONTACT
+---------------------
  ![image](https://user-images.githubusercontent.com/66949546/120879923-7c168c80-c5e4-11eb-8991-0ab72ee5331a.png)
 
 (0 for MAGNET circuit BREAK) (1 for MAGNET circuit contact) 
