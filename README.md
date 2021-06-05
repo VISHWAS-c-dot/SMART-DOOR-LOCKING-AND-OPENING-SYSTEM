@@ -38,4 +38,4 @@ The automatic door opening systems are used in commercial buildings, shopping ma
 
 if you have any doubt fell free to mail me @ <pre><code>vishwas@varzsecurity.com</code></pre>
 
-created with love by VARZ security members.
+created with the intension to help the needy.
